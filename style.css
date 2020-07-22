@@ -1,0 +1,7 @@
+body {
+    background: url(../img/bckgrndpttrn.jpg);
+}
+.main-image {
+    background: url(../img/white\Castle.jpg);
+    background-size: cover;
+}
